@@ -3,22 +3,31 @@
 ## Project Overview
 This project analyzes sales data to find business insights using data cleaning, analysis, and visualization.
 
-Tools used:
+## Tools Used
 - Google Sheets
-- SQL (planned)
-- Tableau (planned)
+- Tableau Public
+- GitHub
 
 ## Dataset
 Superstore sales dataset used for analysis.
 
-## Steps performed
-1. Data cleaning in Google Sheets
-2. Removed duplicates
-3. Formatted dates
-4. Renamed columns
-5. Saved cleaned dataset
+## Data Cleaning Steps
+- Removed duplicates
+- Formatted date columns
+- Renamed columns
+- Saved cleaned dataset
 
-## Next Steps
-- Data analysis
-- Dashboard creation
-- Business insights
+## Analysis Performed
+- Total Sales by Region
+- Profit by Category
+- Sales by Category
+- Sales by Year
+
+## Dashboard
+Tableau Dashboard Link:
+(https://public.tableau.com/views/sales-data-analysis-dashboard/SalesDataAnalysisDashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+
+## Insights
+- Some regions generate more sales than others
+- Technology category gives high profit
+- Sales increase over years
